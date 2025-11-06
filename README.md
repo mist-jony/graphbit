@@ -19,7 +19,7 @@
 [![Rust Version](https://img.shields.io/badge/rust-1.70+-blue.svg)](https://www.rust-lang.org)
 [![Python Version](https://img.shields.io/badge/python-3.10--3.13-blue.svg)](https://www.python.org)
 
-**Type-Safe AI Agent Workflows with Rust Performance**##
+**Type-Safe AI Agent Workflows with Rust Performance**
 
 </div>
 
